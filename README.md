@@ -14,5 +14,3 @@ This repo contains:
 - the tidy dataset
 
 - a codebook that describes the variables and the data.
-
-- the raw data
